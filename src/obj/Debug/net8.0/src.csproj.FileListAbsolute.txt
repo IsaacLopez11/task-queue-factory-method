@@ -1,0 +1,15 @@
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/obj/Debug/net8.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/obj/Debug/net8.0/src.AssemblyInfoInputs.cache
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/obj/Debug/net8.0/src.AssemblyInfo.cs
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/obj/Debug/net8.0/src.csproj.CoreCompileInputs.cache
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/obj/Debug/net8.0/src.sourcelink.json
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/bin/Debug/net8.0/src
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/bin/Debug/net8.0/src.deps.json
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/bin/Debug/net8.0/src.runtimeconfig.json
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/bin/Debug/net8.0/src.dll
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/bin/Debug/net8.0/src.pdb
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/obj/Debug/net8.0/src.dll
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/obj/Debug/net8.0/refint/src.dll
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/obj/Debug/net8.0/src.pdb
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/obj/Debug/net8.0/src.genruntimeconfig.cache
+/home/tecnologia12@macarena.loc/desarrollo/code/console/task-queue-factory-method/src/obj/Debug/net8.0/ref/src.dll
