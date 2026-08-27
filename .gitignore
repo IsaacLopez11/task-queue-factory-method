@@ -1,0 +1,31 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider / ReSharper
+.idea/
+*.sln.iml
+
+# .NET generated files
+*.dll
+*.exe
+*.pdb
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# OS files
+.DS_Store
+Thumbs.db

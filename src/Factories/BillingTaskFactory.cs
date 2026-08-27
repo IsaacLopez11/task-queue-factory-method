@@ -2,7 +2,7 @@ using TaskQueueFactoryMethod.Tasks;
 
 namespace TaskQueueFactoryMethod.Factories;
 
-public class BillingTaskFactory : TaskFactory
+public class BillingTaskFactory : TaskFactoryBase
 {
     public override ITask CreateTask()
     {
